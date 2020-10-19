@@ -1,4 +1,6 @@
 This is file1.
+<<<<<<< HEAD
 Feature1 added
+=======
 Feature2 Added
-
+>>>>>>> f2

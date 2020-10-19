@@ -1,4 +1,2 @@
 This is file1.
-Feature1 added
 Feature2 Added
-
